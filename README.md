@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<code><img src = "https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"></code>
+
 <!--
 **viclourenco/viclourenco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
