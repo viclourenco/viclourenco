@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hello world 👋
+
+- ⚡ I'm doing a bachelor's degree in Software Development at BYU-Idaho
+- 🔭 I'm studying Analysis and Systems Development at Fatec 
+- 🌱 I’m currently learning Python, Java and Javascript
 
 <code><img src = "https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"></code>
 
